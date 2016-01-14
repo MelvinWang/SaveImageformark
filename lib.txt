@@ -9,6 +9,9 @@ compile 'io.reactivex:rxjava:1.1.0'
     compile 'com.j256.ormlite:ormlite-android:4.48'
     compile 'com.orhanobut:logger:1.11'
 
-//RecyclerView与下拉，上加载以及可以自定义viewPager
+//RecyclerView涓庝笅鎷夛紝涓婂姞杞戒互鍙婂彲浠ヨ嚜瀹氫箟viewPager
 compile 'com.jcodecraeer:xrecyclerview:1.2.6'
+
+
+Android Layout ID Converter
 
